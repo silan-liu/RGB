@@ -7,3 +7,9 @@
 //
 
 import Foundation
+
+struct RGBColor {
+    func color() -> String {
+        return "RGBColor";
+    }
+}
